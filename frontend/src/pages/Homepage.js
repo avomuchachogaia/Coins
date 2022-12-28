@@ -35,7 +35,7 @@ class Homepage extends Component {
                         <Filter />
                         <div className='advanced-filter'
                             onClick={this.handleClick}>
-                            <p className='adv-input'>Advanced filter</p>
+                            <p className='adv-input'>filter</p>
                             <p className={`adv-input arrow ${isAdvancedFilter ? "hide" : null}`}>∨</p>
                         </div>
 

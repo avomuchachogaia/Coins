@@ -8,12 +8,12 @@ const DB_CONNECTION = {
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: 'BandBandsql1712',
+    password: 'Aang123',
     database: 'catalogue'
 }
 
 var corsOptions = {
-    origin: 'http://localhost:3000',
+    origin: 'http://localhost:5000',
     optionsSuccessStatus: 200
 }
 
